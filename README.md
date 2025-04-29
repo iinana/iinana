@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm iinana</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iinana&label=Profile%20views&color=0e75b6&style=flat" alt="iinana" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on **a survey service backend** and an **RAG-based stock report generator**  
