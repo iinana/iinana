@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on **a survey service backend** and an **RAG-based stock report generator**  
 - 👨‍💻 All of my projects are available at [github.com/iinana](https://github.com/iinana)
+- 💬 Detail of my projects are available at [tistory.com/iinana](https://programming-diary-ina.tistory.com/)
 - 📫 How to reach me: **jia3527@gmail.com**
 
 ---
